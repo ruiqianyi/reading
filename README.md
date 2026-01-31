@@ -11,6 +11,14 @@
 
 ## 功能特点
 
+<div align="center">
+  <img src="./assets/1.png" width="19%" />
+  <img src="./assets/2.png" width="19%" />
+  <img src="./assets/3.png" width="19%" />
+  <img src="./assets/4.png" width="19%" />
+  <img src="./assets/5.png" width="19%" />
+</div>
+
 ### 📚 阅读管理
 - 创建和管理多个阅读计划
 - 记录阅读书籍、学员列表、总时长
